@@ -2,7 +2,8 @@
 A simpler markdown scanner (checks various grammar mistakes I make)
 
 ```
-Blog plans:
+Ideas:
+  https://en.support.wordpress.com/markdown-quick-reference/
   http://pandoc.org/getting-started.html
   find or write markdown processor (depend on pandoc Haskell package!)
     fundamental problems with pandoc (a) hard to install and (b) no lines in AST
