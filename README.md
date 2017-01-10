@@ -1,6 +1,7 @@
 # mdscan
 A simpler markdown scanner (checks various grammar mistakes I make)
 
+```
 Blog plans:
   http://pandoc.org/getting-started.html
   find or write markdown processor (depend on pandoc Haskell package!)
@@ -101,3 +102,4 @@ data Inline
    -- * e.g. * foo
    --        bar*
    -- * emphasis can contain other constructs (e.g. links)
+```
